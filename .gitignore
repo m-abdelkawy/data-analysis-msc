@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# books: at the root-level resources directory
+/resources/**/*.pdf
+
 # C extensions
 *.so
 
