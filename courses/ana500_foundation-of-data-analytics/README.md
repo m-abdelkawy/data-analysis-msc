@@ -9,10 +9,10 @@ statistical models, and statistical inference.
   - Week 1 — Introduction to Data Analytics & R
   - Week 2 — Statistical Models
 
-## Resources
+## Course Resources
 [01. Discovering Statistics using R](../../resources/ana500/Discovering%20Statistics%20using%20R.pdf)
 
-### additional resources
+## Additional
 [Introductory Statistics 7e](../../resources/ana500/Introductory-Statistics-7e.pdf)
 
 [OpenIntro Statistics](../../resources/ana500/OpenIntro%20Statistics.pdf)
@@ -20,3 +20,6 @@ statistical models, and statistical inference.
 [Python for Data Analysis _ McKinney](../../resources/ana500/Python%20for%20Data%20Analysis_Wes%20McKinney.pdf)
 
 [R for Data Science](../../resources/ana500/R-for-Data-Science.pdf)
+
+## Online resources
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
