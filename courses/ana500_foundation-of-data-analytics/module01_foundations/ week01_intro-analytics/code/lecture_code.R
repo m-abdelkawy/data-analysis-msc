@@ -11,6 +11,9 @@ familyages <- c(42, 42, 12, 8)
 family <- data.frame(name=familynames, age=familyages)
 print(family)
 
+# we can use the names() function to view variable names in a data frame
+names(family)
+
 # entities or observations are rows
 # variables are columns
 # this is the dataframe/dataset being in wide format
@@ -61,3 +64,8 @@ mean(examplevar)
 # this gives NA because of the missing value
 # we can provide param to the mean() method to remove the NA value
 mean(examplevar, na.rm = TRUE)
+
+######################### 
+# list() and cbind(), and rbind()
+
+# stack() and unstack() for restructuring columns, long format and the opposite
