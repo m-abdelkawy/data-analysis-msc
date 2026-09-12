@@ -1,0 +1,22 @@
+---
+Hello
+---
+
+
+
+```{r}
+module_dir <- file.path(
+  "courses/ana500_foundations-of-data-analytics/",
+  "module02_data_visualization_probability/",
+  "week03_data_visualization/"
+)
+
+filepath <- file.path(
+  module_dir,
+  "datasets/FacebookNarcissism.dat"
+)
+
+facebook_data <- read.delim(filepath, header = TRUE)
+
+head(facebook_data)
+```
