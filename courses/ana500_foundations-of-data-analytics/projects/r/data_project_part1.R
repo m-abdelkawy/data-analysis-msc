@@ -10,7 +10,7 @@ library(dplyr)
 file_path <- file.path(
   "../datasets/penguins_size.csv"
 )
- 
+
 df <- read.csv(file_path)
 
 ##################################################################
@@ -364,3 +364,4 @@ flipper_mass_scatterplot +
     color = "Species"
   ) +
   theme_minimal()
+
