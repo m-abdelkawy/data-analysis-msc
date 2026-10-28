@@ -1,0 +1,101 @@
+EmployeeID,Age,Department,Salary,Experience,Education_Level
+2001,49,Finance,107369,6.5,Bachelors
+2002,59,Marketing,92998,33.5,Bachelors
+2003,47,Finance,95451,14.5,Bachelors
+2004,64,Sales,99967,34.1,Bachelors
+2005,50,Finance,119921,33.1,Bachelors
+2006,37,HR,61850,30.9,Bachelors
+2007,59,Engineering,56070,17.6,High School
+2008,50,HR,71078,20.2,Bachelors
+2009,61,HR,99318,26.3,High School
+2010,39,Sales,42384,34.8,Bachelors
+2011,33,Sales,109114,25.1,Masters
+2012,62,HR,80215,28.3,Bachelors
+2013,35,Engineering,73045,19.1,Bachelors
+2014,27,Finance,54994,8.8,Masters
+2015,56,Sales,51634,23.7,Bachelors
+2016,36,Sales,73703,39.2,Bachelors
+2017,42,HR,91564,25.4,Bachelors
+2018,56,HR,50861,6.4,Bachelors
+2019,24,HR,47829,4.5,High School
+2020,62,Sales,72135,14.2,Bachelors
+2021,26,Engineering,46957,35.5,Bachelors
+2022,30,Engineering,93970,5.1,Bachelors
+2023,43,Finance,117509,24.4,High School
+2024,60,Engineering,97706,35.2,Bachelors
+2025,38,Finance,63569,4.8,PhD
+2026,63,Engineering,41754,22.2,Masters
+2027,32,Marketing,99594,20.2,Masters
+2028,30,HR,70373,27.2,Bachelors
+2029,57,Marketing,46123,15.9,Bachelors
+2030,57,Engineering,94765,3.1,Bachelors
+2031,44,Sales,77228,36.6,Masters
+2032,57,Finance,101209,7.3,Masters
+2033,63,HR,84541,34.2,Masters
+2034,44,Finance,118316,9.8,High School
+2035,32,Sales,91866,16.3,High School
+2036,43,HR,72641,33.0,High School
+2037,39,Engineering,89476,39.8,Bachelors
+2038,28,Sales,50017,1.3,Bachelors
+2039,53,Sales,64446,39.5,Masters
+2040,33,HR,54583,36.7,High School
+2041,43,Finance,105755,11.4,Masters
+2042,48,Marketing,48135,17.5,Masters
+2043,47,Finance,50715,21.5,Bachelors
+2044,34,Sales,77244,23.1,Bachelors
+2045,42,Finance,77346,20.7,Bachelors
+2046,24,Engineering,103925,38.6,Bachelors
+2047,26,Sales,104393,16.9,High School
+2048,37,Marketing,69103,35.9,High School
+2049,27,Marketing,44784,20.5,Bachelors
+2050,26,HR,78030,1.1,Bachelors
+2051,43,Finance,54407,21.9,Masters
+2052,53,Marketing,70999,30.3,Bachelors
+2053,55,HR,53720,31.0,Bachelors
+2054,32,Sales,101563,12.5,High School
+2055,49,Finance,83238,14.4,Bachelors
+2056,47,Sales,51014,13.2,Masters
+2057,26,Finance,104710,4.5,Bachelors
+2058,33,Marketing,72551,29.8,High School
+2059,52,Finance,103533,27.0,Bachelors
+2060,50,Marketing,45021,18.4,High School
+2061,27,Finance,54867,28.0,PhD
+2062,29,Marketing,77561,17.1,Bachelors
+2063,45,Marketing,102782,19.5,Bachelors
+2064,34,Sales,45561,2.8,Masters
+2065,63,Marketing,59234,31.7,Bachelors
+2066,47,Engineering,95297,13.9,Bachelors
+2067,37,HR,43818,5.4,Masters
+2068,42,Marketing,110609,5.0,Bachelors
+2069,39,Engineering,67598,16.4,Bachelors
+2070,48,Marketing,77558,6.0,Bachelors
+2071,54,Sales,79388,4.8,High School
+2072,36,HR,105654,13.5,Bachelors
+2073,34,HR,86432,1.2,Bachelors
+2074,30,HR,65375,19.8,Masters
+2075,57,Marketing,92823,13.4,Bachelors
+2076,30,Finance,107211,31.3,High School
+2077,37,HR,85317,18.9,High School
+2078,49,Engineering,97370,39.5,Bachelors
+2079,37,Sales,98797,25.6,Bachelors
+2080,52,Finance,112054,33.3,Bachelors
+2081,38,HR,68033,22.8,Masters
+2082,61,Sales,64401,27.6,Bachelors
+2083,32,Engineering,56767,13.4,Bachelors
+2084,55,Engineering,109714,6.6,High School
+2085,58,Sales,75880,34.1,Masters
+2086,29,Marketing,106071,39.8,Masters
+2087,41,Sales,100417,17.8,High School
+2088,59,Marketing,88929,24.8,Bachelors
+2089,47,Sales,111783,12.9,Bachelors
+2090,36,Sales,71284,22.4,Masters
+2091,42,Finance,100443,30.8,Bachelors
+2092,64,Engineering,117858,13.5,Masters
+2093,56,Finance,51525,29.5,Masters
+2094,35,HR,89568,10.2,High School
+2095,33,Engineering,108020,9.0,Masters
+2096,48,HR,52750,4.2,Bachelors
+2097,48,HR,71394,4.6,Bachelors
+2098,46,Marketing,87214,37.8,Masters
+2099,51,Finance,68274,5.8,Bachelors
+2100,26,Engineering,112051,23.1,Bachelors
