@@ -3,9 +3,6 @@
 # Predict Employee Performance
 # ============================================================
 
-# Required packages
-# install.packages(c("caTools", "rpart", "rpart.plot"))
-
 # Install and load required packages
 required_packages <- c("rpart", "rpart.plot", "caTools", "caret", "dplyr")
 missing_packages <- required_packages[!sapply(required_packages, requireNamespace, quietly = TRUE)]
@@ -135,28 +132,6 @@ rpart.plot(
 
 # 6. Export the tree visualization ----------------------------
 
-# Save a high-resolution image for the assignment PDF.
-
-png(
-  filename = "employee_performance_tree.png",
-  width = 2400,
-  height = 1600,
-  res = 300
-)
-
-rpart.plot(
-  dt_model,
-  type = 2,
-  extra = 104,
-  fallen.leaves = TRUE,
-  box.palette = "GnBu",
-  nn = TRUE,
-  roundint = FALSE,
-  cex = 1,
-  main = "Employee Performance Decision Tree"
-)
-
-dev.off()
 
 
 # 7. Predict on the test set ----------------------------------
@@ -167,9 +142,7 @@ predictions <- predict(
   type = "class"
 )
 
-
 # 8. Evaluate the model ---------------------------------------
-
 # Confusion matrix:
 # Rows = actual classes
 # Columns = predicted classes
@@ -183,7 +156,6 @@ cat("\nConfusion Matrix:\n")
 print(cm)
 
 # Accuracy = correctly classified observations / total.
-
 accuracy <- sum(diag(cm)) / sum(cm)
 
 cat(
@@ -196,5 +168,5 @@ cat(
   "Accuracy Percentage:",
   round(accuracy * 100, 2),
   "%\n"
-)
-
+  
+  
